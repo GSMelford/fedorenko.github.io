@@ -226,7 +226,7 @@
     }
     .footer{
         flex-wrap: wrap;
-        width: 30%;
+        width: 40%;
     }
     #copy,#email{
         width: 100%;
